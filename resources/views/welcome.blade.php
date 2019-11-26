@@ -83,7 +83,7 @@
 		    </div>
 		  </div>
 	</div>
-	<div id="explicacion" class="text-md-center col-5 ">
+	<div id="explicacion" class="text-md-center col-md-5">
 		<h3>¿Que es un banco del tiempo?</h3>
 		<p>Un Banco de Tiempo es una herramienta con la cual un grupo de personas puede crear una alternativa económica social. En un Banco de Tiempo se intercambian habilidades entre los miembros sin utilizar dinero, únicamente se contabilizan las horas de servicio prestado y recibido.</p>
 	</div>

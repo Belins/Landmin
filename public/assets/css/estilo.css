@@ -60,7 +60,7 @@ body{
 	margin-right: 10px;
 }
 #explicacion{
-	margin-left: 30%;
+	margin: 0 auto;
 	margin-top: 10%;
 	margin-bottom: 10%;
 }
@@ -129,9 +129,4 @@ footer .form-control {
 		margin-left: 20%;
 	}
 
-}
-@media (max-width: 500px) {
-	#explicacion{
-		margin-left: 0;
-	}
 }
