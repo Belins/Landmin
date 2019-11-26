@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 use App\Contacto;
 use Illuminate\Http\Request;
-
+use App\Http\Requests\contactorequest;
 class ContactoController extends Controller
 {
     /**

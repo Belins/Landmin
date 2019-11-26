@@ -144,6 +144,15 @@
                     <fieldset class="form-group text-xs-right">
                         <button type="submit" class="bg-faded btn-sm">Enviar</button>
                     </fieldset>
+                    @if ($errors ->has('nombre'))
+                    <a class="error">{{ $error->first('nombre') }}</a><br>
+                    @endif
+                    @if ($errors ->has('nombre'))
+                    <a class="error">{{ $error->first('email') }}</a><br>
+                    @endif
+                    @if ($errors ->has('nombre'))
+                    <a class="error">{{ $error->first('mensaje') }}</a><br>
+                    @endif
                 </form>
             </div>
         </div>
